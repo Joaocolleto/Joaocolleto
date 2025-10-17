@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Joao👋
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 📧 Email para contato: hlinhares453@gmail.com
+- 📧 Email para contato: colletodesouza@gmail.com
 - 💼 A procura de oportunidades de estágio
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=wh)](https://www.linkedin.com/in//)
