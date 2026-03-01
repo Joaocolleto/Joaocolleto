@@ -12,7 +12,6 @@
 
 ##
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaocolleto&show_icons=true&theme=dark)
 
 ##
 <div style="display: inline-block"><br>
