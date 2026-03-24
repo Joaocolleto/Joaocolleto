@@ -11,7 +11,7 @@
 	
 
 ##
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Colleto&show_icons=true&theme=dark)
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoColleto&show_icons=true&theme=dark)
 
 ##
 <div style="display: inline-block"><br>
